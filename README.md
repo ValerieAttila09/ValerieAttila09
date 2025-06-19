@@ -1,11 +1,40 @@
-- 👋 Hi, I’m Valerie Attila Al-fath
-- 👀 I’m interested in Programming Language
-- 🌱 I’m currently learning JS & PHP
-- 📫 How to reach me, You can send a message via valerieattilaalfath@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Playing ML and MW while bored
+![GetUp](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRnMWJjZDc3bHozNjRpOWZhdmtrcmhjMnVyY3V3YXlxZXA1NTZhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBPPcBnFA6kVXsk/giphy.gif)
 
-<!---
-ValerieAttila09/ValerieAttila09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🚀 Wake Up From Reality Bro 🔥🔥🔥
+
+> **Misi:** Menyediakan solusi inovatif untuk [masalah yang ingin diselesaikan] melalui teknologi dan kreativitas.
+
+---
+
+## 🌟 Tentang Saya
+
+Saya adalah Valerie Attila Al-Fath, seorang desainer UI/UX dan pengembang back-end yang berbasis di Medan, Indonesia. Saya memiliki hasrat yang kuat untuk menciptakan pengalaman digital yang intuitif dan membangun sistem yang efisien dan dapat diskalakan. Dengan fokus pada estetika dan fungsionalitas, saya berdedikasi untuk memberikan solusi berkualitas tinggi dan selalu siap untuk berkontribusi pada proyek yang berdampak.
+
+
+- **Tinggal:** Medan, Indonesia 
+- **Sekolah:** SMK Multi Karya 
+- **Jurusan:** Rekayasa Perangkat Lunak (RPL)
+
+
+---
+
+## 🏗️ Project Saya
+
+| No  | Nama                   | URL |
+| --- | ---------------------- | --- |
+| 1   | Portfolio V1           |  [https://valerieattila09.github.io/portfolio/](https://valerieattila09.github.io/portfolio/)   |
+| 1   | Asus ProArt Studiobook |   [https://valerieattila09.github.io/ProArt-Laptop/](https://valerieattila09.github.io/ProArt-Laptop/)  |
+| 1   | Tugas Sekolah          |  [https://valerieattila09.github.io/dampakGeografisIndonesia/](https://valerieattila09.github.io/dampakGeografisIndonesia/)   |
+| 2   | Portfolio V2           |   [https://valerieattila09.github.io/portfolioV2/](https://valerieattila09.github.io/portfolioV2/)  |
+| 2   | Portfolio V3           |  [https://valerieattila09.github.io/portfolioV3/](https://valerieattila09.github.io/portfolioV3/)   |
+
+---
+
+## 📬 Hubungi Saya
+
+- 📧 Email: [valerieattilaalfath@gmail.com](valerieattilaalfath@gmail.com)
+- 🌐 Website: [https://valerieattila09.github.io/portfolioV3/](https://valerieattila09.github.io/portfolioV3/)
+
+---
+
+> “Satu langkah kecil untuk ide, satu lompatan besar untuk masa depan.”
