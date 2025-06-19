@@ -2,7 +2,7 @@
 
 # 🚀 Wake Up From Reality Bro 🔥🔥🔥
 
-> **Misi:** Menyediakan solusi inovatif untuk [masalah yang ingin diselesaikan] melalui teknologi dan kreativitas.
+> **Misi:** Menyediakan solusi inovatif untuk website/aplikasi/program melalui teknologi dan kreativitas.
 
 ---
 
