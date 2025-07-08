@@ -13,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/Spotify-logo?style=flat&logo=spotify&label=Listening%20on)
 ![Static Badge](https://img.shields.io/badge/Android%20device-logo?style=flat&logo=android&color=%233F5A89)
 ![Static Badge](https://img.shields.io/badge/Windows%20device-logo?style=flat&logo=lenovo&logoColor=%23E2231A&logoSize=24&color=%233F5A89)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/username/repo/ci.yml?branch=main)
+![npm](https://img.shields.io/npm/v/namapackage)
 
 ## 🌟 Tentang Saya
 
