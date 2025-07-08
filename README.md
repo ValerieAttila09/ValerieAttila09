@@ -8,7 +8,7 @@
 
 ## 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,tailwind,alpinejs,react,express,laravel,nodejs,php,py,supabase,mysql,vercel&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,tailwind,alpinejs,react,express,vite,laravel,nodejs,php,py,supabase,mysql,vercel&perline=6)](https://skillicons.dev)
 
 
 ## 🌟 Tentang Saya
