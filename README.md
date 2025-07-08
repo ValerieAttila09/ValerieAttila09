@@ -11,6 +11,8 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,html,css,js,tailwind,alpinejs,react,express,vite,laravel,nodejs,php,py,supabase,mysql,postman,vercel&perline=6)](https://skillicons.dev)
 
 ![Static Badge](https://img.shields.io/badge/Spotify-logo?style=flat&logo=spotify&label=Listening%20on)
+![Static Badge](https://img.shields.io/badge/Android%20device-logo?style=flat&logo=android&color=%233F5A89)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/username/repo/ci.yml?branch=main)
 
 ## 🌟 Tentang Saya
 
