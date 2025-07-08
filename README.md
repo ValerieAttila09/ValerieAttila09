@@ -14,6 +14,8 @@
 ![Static Badge](https://img.shields.io/badge/Android%20device-logo?style=flat&logo=android&color=%233F5A89)
 ![Static Badge](https://img.shields.io/badge/Windows%20device-logo?style=flat&logo=lenovo&logoColor=%23E2231A&logoSize=24&color=%233F5A89)
 
+---
+
 ## 🌟 Tentang Saya
 
 Saya **Valerie Attila Al-Fath**, seorang desainer UI/UX dan pengembang back-end yang berbasis di Medan, Indonesia. Saya memiliki hasrat yang kuat untuk menciptakan pengalaman digital yang intuitif dan membangun sistem yang efisien dan dapat diskalakan. Dengan fokus pada estetika dan fungsionalitas, saya berdedikasi untuk memberikan solusi berkualitas tinggi dan selalu siap untuk berkontribusi pada proyek yang berdampak.
