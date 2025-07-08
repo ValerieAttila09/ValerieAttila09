@@ -16,7 +16,7 @@
 
 ## 🌟 Tentang Saya
 
-Saya adalah Valerie Attila Al-Fath, seorang desainer UI/UX dan pengembang back-end yang berbasis di Medan, Indonesia. Saya memiliki hasrat yang kuat untuk menciptakan pengalaman digital yang intuitif dan membangun sistem yang efisien dan dapat diskalakan. Dengan fokus pada estetika dan fungsionalitas, saya berdedikasi untuk memberikan solusi berkualitas tinggi dan selalu siap untuk berkontribusi pada proyek yang berdampak.
+Saya adalah **Valerie Attila Al-Fath**, seorang desainer UI/UX dan pengembang back-end yang berbasis di Medan, Indonesia. Saya memiliki hasrat yang kuat untuk menciptakan pengalaman digital yang intuitif dan membangun sistem yang efisien dan dapat diskalakan. Dengan fokus pada estetika dan fungsionalitas, saya berdedikasi untuk memberikan solusi berkualitas tinggi dan selalu siap untuk berkontribusi pada proyek yang berdampak.
 
 
 - **Tinggal:** Medan, Indonesia 
