@@ -10,6 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,html,css,js,tailwind,alpinejs,react,express,vite,laravel,nodejs,php,py,supabase,mysql,postman,vercel&perline=6)](https://skillicons.dev)
 
+![Static Badge](https://img.shields.io/badge/Spotify-logo?style=flat&logo=spotify&label=Listening%20on)
 
 ## 🌟 Tentang Saya
 
