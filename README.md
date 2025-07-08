@@ -8,10 +8,7 @@
 
 ## 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,tailwind,react,express,laravel,nodejs,php,py,supabase,vercel&perline=5)](https://skillicons.dev)
-
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,tailwind,alpinejs,react,express,laravel,nodejs,php,py,supabase,mysql,vercel&perline=5)](https://skillicons.dev)
 
 
 ## 🌟 Tentang Saya
