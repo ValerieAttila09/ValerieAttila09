@@ -8,7 +8,7 @@
 
 ## 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscodd,html,css,js,tailwind,react,express,laravel,nodejs,php,py,supabase,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscodd,html,css,js,tailwind,react,express,laravel,nodejs,php,py,supabase&perline=5)](https://skillicons.dev)
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white)
