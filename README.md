@@ -6,6 +6,12 @@
 
 ---
 
+## 🔧 Technologies & Tools
+
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white)
+
+
 ## 🌟 Tentang Saya
 
 Saya adalah Valerie Attila Al-Fath, seorang desainer UI/UX dan pengembang back-end yang berbasis di Medan, Indonesia. Saya memiliki hasrat yang kuat untuk menciptakan pengalaman digital yang intuitif dan membangun sistem yang efisien dan dapat diskalakan. Dengan fokus pada estetika dan fungsionalitas, saya berdedikasi untuk memberikan solusi berkualitas tinggi dan selalu siap untuk berkontribusi pada proyek yang berdampak.
