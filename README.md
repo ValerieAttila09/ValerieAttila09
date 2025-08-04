@@ -6,6 +6,14 @@
 
 ---
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valerieattila09&show_icons=true&theme=tokyonight)
+
+## 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valerieattila09&layout=compact&theme=tokyonight)
+
+---
+
 ## 🔧 Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,html,css,js,tailwind,alpinejs,react,nextjs,express,vite,laravel,nodejs,php,py,supabase,mysql,mongodb,postman,vercel,latex,linux&perline=9)](https://skillicons.dev)
