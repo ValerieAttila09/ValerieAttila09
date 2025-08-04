@@ -12,7 +12,7 @@
 ## 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valerieattila09&layout=compact&theme=tokyonight)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ValerieAttila09&theme=onedark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=valerieattila09&theme=onedark&no-frame=true&column=3)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=valerieattila09&theme=tokyonight)
 
