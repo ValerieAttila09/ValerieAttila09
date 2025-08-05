@@ -19,7 +19,7 @@
 
 ## 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,html,css,js,tailwind,alpinejs,react,nextjs,express,vite,laravel,nodejs,php,py,supabase,mysql,mongodb,postman,vercel,latex,linux&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,js,ts,tailwind,bootstrap,alpinejs,react,nextjs,express,vite,laravel,nodejs,npm,php,dart,flutter,py,supabase,prisma,mysql,mongodb,postgres,postman,vercel,latex,linux&perline=9)](https://skillicons.dev)
 
 ![Static Badge](https://img.shields.io/badge/Spotify-logo?style=flat&logo=spotify&label=Listening%20on)
 ![Static Badge](https://img.shields.io/badge/Android%20device-logo?style=flat&logo=android&color=%233F5A89)
