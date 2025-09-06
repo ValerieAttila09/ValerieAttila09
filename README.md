@@ -29,12 +29,12 @@
 
 ## 🌟 Tentang Saya
 
-Saya **Valerie Attila Al-Fath**, seorang desainer UI/UX dan pengembang back-end yang berbasis di Medan, Indonesia. Saya memiliki hasrat yang kuat untuk menciptakan pengalaman digital yang intuitif dan membangun sistem yang efisien dan dapat diskalakan. Dengan fokus pada estetika dan fungsionalitas, saya berdedikasi untuk memberikan solusi berkualitas tinggi dan selalu siap untuk berkontribusi pada proyek yang berdampak.
+I'm **Valerie Attila Al-Fath**, a UI/UX designer and back-end developer based in Medan, Indonesia. I have a strong passion for creating intuitive digital experiences and building efficient, scalable systems. With a focus on both aesthetics and functionality, I'm dedicated to delivering high-quality solutions and am always ready to contribute to impactful projects..
 
 
-- **Tinggal:** Medan, Indonesia 
-- **Sekolah:** SMK Multi Karya 
-- **Jurusan:** Rekayasa Perangkat Lunak (RPL)
+- **Address:** Medan, Indonesia 
+- **School:** SMK Multi Karya 
+- **Major:** Software Engineering (RPL)
 
 
 ---
