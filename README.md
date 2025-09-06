@@ -47,14 +47,14 @@ Saya **Valerie Attila Al-Fath**, seorang desainer UI/UX dan pengembang back-end 
 | 1   | Asus ProArt Studiobook |   [https://valerieattila09.github.io/ProArt-Laptop/](https://valerieattila09.github.io/ProArt-Laptop/)  |
 | 1   | Tugas Sekolah          |  [https://valerieattila09.github.io/dampakGeografisIndonesia/](https://valerieattila09.github.io/dampakGeografisIndonesia/)   |
 | 2   | Portfolio V2           |   [https://valerieattila09.github.io/portfolioV2/](https://valerieattila09.github.io/portfolioV2/)  |
-| 2   | Portfolio V3           |  [https://valerieattila09.github.io/portfolioV3/](https://valerieattila09.github.io/portfolioV3/)   |
+| 2   | Portfolio V3           |  [https://valerieattila09.github.io/portfolioV3/](https://valerie-portfolio-three.vercel.app/)   |
 
 ---
 
 ## 📬 Hubungi Saya
 
 - 📧 Email: [valerieattilaalfath@gmail.com](valerieattilaalfath@gmail.com)
-- 🌐 Website: [https://valerieattila09.github.io/portfolioV3/](https://valerieattila09.github.io/portfolioV3/)
+- 🌐 Website: [https://valerieattila09.github.io/portfolioV3/](https://valerie-portfolio-three.vercel.app/)
 
 ---
 
