@@ -7,7 +7,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valerieattila09&show_icons=true&theme=tokyonight)
+![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValerieAttila09&show_icons=true&theme=ambient_gradient)
 
 ## 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valerieattila09&layout=compact&theme=tokyonight)
