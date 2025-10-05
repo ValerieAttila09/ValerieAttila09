@@ -2,7 +2,7 @@
 
 # 🚀 Wake Up From Reality Bro 🔥🔥🔥
 
-> **Misi:** Menyediakan solusi inovatif untuk website/aplikasi/program melalui teknologi dan kreativitas.
+> **Mision:** Providing innovative solutions for websites/applications/programs through technology and creativity.
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🌟 Tentang Saya
+## 🌟 About Me
 
 I'm **Valerie Attila Al-Fath**, a UI/UX designer and back-end developer based in Medan, Indonesia. I have a strong passion for creating intuitive digital experiences and building efficient, scalable systems. With a focus on both aesthetics and functionality, I'm dedicated to delivering high-quality solutions and am always ready to contribute to impactful projects..
 
@@ -39,9 +39,9 @@ I'm **Valerie Attila Al-Fath**, a UI/UX designer and back-end developer based in
 
 ---
 
-## 🏗️ Project Saya
+## 🏗️ My Project
 
-| No  | Nama                   | URL |
+| No  | Project Name           | URL |
 | --- | ---------------------- | --- |
 | 1   | Portfolio V1           |  [https://valerieattila09.github.io/portfolio/](https://valerieattila09.github.io/portfolio/)   |
 | 1   | Asus ProArt Studiobook |   [https://valerieattila09.github.io/ProArt-Laptop/](https://valerieattila09.github.io/ProArt-Laptop/)  |
@@ -51,11 +51,11 @@ I'm **Valerie Attila Al-Fath**, a UI/UX designer and back-end developer based in
 
 ---
 
-## 📬 Hubungi Saya
+## 📬 Contact Me
 
 - 📧 Email: [valerieattilaalfath@gmail.com](valerieattilaalfath@gmail.com)
 - 🌐 Website: [https://valerie-portfolio-three.vercel.app/](https://valerie-portfolio-three.vercel.app/)
 
 ---
 
-> “Satu langkah kecil untuk ide, satu lompatan besar untuk masa depan.”
+> “One small step for an idea, one giant leap for the future.”
