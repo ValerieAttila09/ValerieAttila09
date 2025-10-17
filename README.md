@@ -1,61 +1,87 @@
-![GetUp](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRnMWJjZDc3bHozNjRpOWZhdmtrcmhjMnVyY3V3YXlxZXA1NTZhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBPPcBnFA6kVXsk/giphy.gif)
+![Wake Up](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRnMWJjZDc3bHozNjRpOWZhdmtrcmhjMnVyY3V3YXlxZXA1NTZhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBPPcBnFA6kVXsk/giphy.gif)
 
-# 🚀 Wake Up From Reality Bro 🔥🔥🔥
+<h1 align="center">🚀 Wake Up From Reality Bro 🔥🔥🔥</h1>
+<h3 align="center">UI/UX Designer • Backend Developer • Tech Explorer</h3>
 
-> **Mision:** Providing innovative solutions for websites/applications/programs through technology and creativity.
+> “Turning ideas into digital experiences that blend design, performance, and innovation.”
+
+---
+
+## 🎯 Mission
+> Providing innovative solutions for websites, applications, and programs through technology and creativity.
 
 ---
 
 ## 📊 GitHub Stats
-![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValerieAttila09&show_icons=true&theme=ambient_gradient)
 
-## 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valerieattila09&layout=compact&theme=ambient_gradient)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ValerieAttila09&show_icons=true&theme=ambient_gradient" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerieAttila09&layout=compact&theme=ambient_gradient" height="180em" />
+</p>
 
-## 🚀 Github Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=valerieattila09&theme=ambient_gradient)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ValerieAttila09&theme=ambient_gradient" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ValerieAttila09&theme=dracula&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
-## 🔧 Technologies & Tools
+## 🧠 About Me
+
+I'm **Valerie Attila Al-Fath**, a UI/UX designer and backend developer based in **Medan, Indonesia**.  
+I love combining creativity and logic to build digital experiences that look great and work even better.
+
+🌱 Always learning new technologies  
+🤝 Open for collaboration and freelance projects  
+💬 Focused on clean design and scalable systems  
+
+**🎓 Education:** SMK Multi Karya – Software Engineering (RPL)
+
+---
+
+## 🧩 Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,html,css,js,ts,tailwind,bootstrap,alpinejs,react,vue,nextjs,express,vite,laravel,nodejs,go,npm,php,dart,flutter,py,supabase,firebase,prisma,mysql,mongodb,postgres,postman,vercel,latex,linux)](https://skillicons.dev)
 
-![Static Badge](https://img.shields.io/badge/Spotify-logo?style=flat&logo=spotify&label=Listening%20on)
-![Static Badge](https://img.shields.io/badge/Android%20device-logo?style=flat&logo=android&color=%233F5A89)
-![Static Badge](https://img.shields.io/badge/Windows%20device-logo?style=flat&logo=lenovo&logoColor=%23E2231A&logoSize=24&color=%233F5A89)
+<p align="center">
+  <img src="https://img.shields.io/badge/Spotify-Listening-green?style=flat&logo=spotify" />
+  <img src="https://img.shields.io/badge/Android%20Device-Active-%233F5A89?style=flat&logo=android" />
+  <img src="https://img.shields.io/badge/Windows%20Device-Lenovo-%233F5A89?style=flat&logo=lenovo&logoColor=%23E2231A" />
+</p>
 
 ---
 
-## 🌟 About Me
+## 🏗️ My Projects
 
-I'm **Valerie Attila Al-Fath**, a UI/UX designer and back-end developer based in Medan, Indonesia. I have a strong passion for creating intuitive digital experiences and building efficient, scalable systems. With a focus on both aesthetics and functionality, I'm dedicated to delivering high-quality solutions and am always ready to contribute to impactful projects..
-
-
-- **Address:** Medan, Indonesia 
-- **School:** SMK Multi Karya 
-- **Major:** Software Engineering (RPL)
-
-
----
-
-## 🏗️ My Project
-
-| No  | Project Name           | URL |
-| --- | ---------------------- | --- |
-| 1   | Portfolio V1           |  [https://valerieattila09.github.io/portfolio/](https://valerieattila09.github.io/portfolio/)   |
-| 1   | Asus ProArt Studiobook |   [https://valerieattila09.github.io/ProArt-Laptop/](https://valerieattila09.github.io/ProArt-Laptop/)  |
-| 1   | Tugas Sekolah          |  [https://valerieattila09.github.io/dampakGeografisIndonesia/](https://valerieattila09.github.io/dampakGeografisIndonesia/)   |
-| 2   | Portfolio V2           |   [https://valerieattila09.github.io/portfolioV2/](https://valerieattila09.github.io/portfolioV2/)  |
-| 2   | Portfolio V3           |  [https://valerie-portfolio-three.vercel.app/](https://valerie-portfolio-three.vercel.app/)   |
+| No | Project Name | URL | Tech Used |
+|----|---------------|-----|-----------|
+| 1 | Portfolio V3 | [🔗 Visit](https://valerie-portfolio-three.vercel.app/) | React, GSAP, Tailwind |
+| 2 | Portfolio V2 | [🔗 Visit](https://valerieattila09.github.io/portfolioV2/) | Bootstrap, JS |
+| 3 | Portfolio V1 | [🔗 Visit](https://valerieattila09.github.io/portfolio/) | HTML, CSS, JS |
+| 4 | Asus ProArt Studiobook | [🔗 Visit](https://valerieattila09.github.io/ProArt-Laptop/) | HTML, CSS, JS |
+| 5 | Tugas Sekolah | [🔗 Visit](https://valerieattila09.github.io/dampakGeografisIndonesia/) | HTML, CSS |
 
 ---
 
 ## 📬 Contact Me
 
-- 📧 Email: [valerieattilaalfath@gmail.com](valerieattilaalfath@gmail.com)
-- 🌐 Website: [https://valerie-portfolio-three.vercel.app/](https://valerie-portfolio-three.vercel.app/)
+<p align="center">
+  <a href="mailto:valerieattilaalfath@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://valerie-portfolio-three.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/ValerieAttila09">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> “One small step for an idea, one giant leap for the future.”
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7768E&center=true&vCenter=true&width=500&lines=Keep+learning,+keep+building!;Design+with+purpose,+code+with+heart.;One+small+step+for+an+idea,+one+giant+leap+for+the+future." alt="Typing SVG" />
+</p>
