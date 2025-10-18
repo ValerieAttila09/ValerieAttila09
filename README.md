@@ -1,7 +1,7 @@
 ![Wake Up](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRnMWJjZDc3bHozNjRpOWZhdmtrcmhjMnVyY3V3YXlxZXA1NTZhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBPPcBnFA6kVXsk/giphy.gif)
 
 <h1 align="center">🚀 Wake Up From Reality Bro 🔥🔥🔥</h1>
-<h3 align="center">UI/UX Designer • Backend Developer • Tech Explorer</h3>
+<h3 align="center">UI/UX Designer • Fullstack Developer • Tech Explorer</h3>
 
 > “Turning ideas into digital experiences that blend design, performance, and innovation.”
 
