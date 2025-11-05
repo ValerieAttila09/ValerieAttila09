@@ -44,7 +44,10 @@ I love combining creativity and logic to build digital experiences that look gre
 
 ## 🧩 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,html,css,js,ts,tailwind,bootstrap,alpinejs,react,vue,nextjs,express,vite,laravel,nodejs,go,npm,php,dart,flutter,py,supabase,firebase,prisma,mysql,mongodb,postgres,postman,vercel,latex,linux)](https://skillicons.dev)
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,go,php,dart,py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=,tailwind,react,nextjs,express,laravel,nodejs,flutter)](https://skillicons.dev)
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spotify-Listening-green?style=flat&logo=spotify" />
