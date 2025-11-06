@@ -50,9 +50,9 @@ I love combining creativity and logic to build digital experiences that look gre
 #### Development Tools
 [![My Skills](https://skillicons.dev/icons?i=jest,vite,npm)](https://skillicons.dev)
 #### Containerization & Orchestration
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,github,git,gitlab,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,github,git,gitlab)](https://skillicons.dev)
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlserver)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlserver,firebase,supabase)](https://skillicons.dev)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spotify-Listening-green?style=flat&logo=spotify" />
