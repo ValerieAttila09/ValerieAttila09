@@ -15,12 +15,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValerieAttila09&show_icons=true&theme=ambient_gradient" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerieAttila09&layout=compact&theme=ambient_gradient" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ValerieAttila09&show_icons=true&theme=dracula" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerieAttila09&layout=compact&theme=dracula" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ValerieAttila09&theme=ambient_gradient" />
+  <img src="https://streak-stats.demolab.com?user=ValerieAttila09&theme=dracula" />
 </p>
 
 <p align="center">
