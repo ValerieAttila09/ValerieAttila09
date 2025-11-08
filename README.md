@@ -60,6 +60,16 @@ I love combining creativity and logic to build digital experiences that look gre
   <img src="https://img.shields.io/badge/Windows%20Device-Lenovo-%233F5A89?style=flat&logo=lenovo&logoColor=%23E2231A" />
 </p>
 
+
+<p style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValerieAttila09&bg_color=191919&text_color=ebebeb&border_color=565656&repo=portfolioV4" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValerieAttila09&bg_color=191919&text_color=ebebeb&border_color=565656&repo=users-management-system" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValerieAttila09&bg_color=191919&text_color=ebebeb&border_color=565656&repo=flutter-ecommerce" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValerieAttila09&bg_color=191919&text_color=ebebeb&border_color=565656&repo=nextjs-app-design" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValerieAttila09&bg_color=191919&text_color=ebebeb&border_color=565656&repo=ascii-image-ts-cli" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValerieAttila09&bg_color=191919&text_color=ebebeb&border_color=565656&repo=SimpleNotepad-Qt-cpp" />
+</p>
+
 ---
 
 ## 🏗️ My Projects
