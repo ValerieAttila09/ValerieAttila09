@@ -46,28 +46,20 @@ I love combining creativity and logic to build digital experiences that look gre
 #### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,php,dart,py)](https://skillicons.dev)
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=tailwind,materialui,alpinejs,react,nextjs,express,laravel,nodejs,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,threejs,materialui,alpinejs,react,nextjs,express,laravel,nodejs,flutter,prisma,astro,elysia)](https://skillicons.dev)
 #### Development Tools
-[![My Skills](https://skillicons.dev/icons?i=jest,vite,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,vite,npm,postman)](https://skillicons.dev)
 #### Containerization & Orchestration
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,github,git,gitlab)](https://skillicons.dev)
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlserver,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,supabase)](https://skillicons.dev)
+#### Hostinger
+[![My Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spotify-Listening-green?style=flat&logo=spotify" />
   <img src="https://img.shields.io/badge/Android%20Device-Active-%233F5A89?style=flat&logo=android" />
   <img src="https://img.shields.io/badge/Windows%20Device-Lenovo-%233F5A89?style=flat&logo=lenovo&logoColor=%23E2231A" />
-</p>
-
-
-<p style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValerieAttila09&bg_color=191919&text_color=ebebeb&border_color=565656&repo=portfolioV4" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValerieAttila09&bg_color=191919&text_color=ebebeb&border_color=565656&repo=users-management-system" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValerieAttila09&bg_color=191919&text_color=ebebeb&border_color=565656&repo=flutter-ecommerce" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValerieAttila09&bg_color=191919&text_color=ebebeb&border_color=565656&repo=nextjs-app-design" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValerieAttila09&bg_color=191919&text_color=ebebeb&border_color=565656&repo=ascii-image-ts-cli" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValerieAttila09&bg_color=191919&text_color=ebebeb&border_color=565656&repo=SimpleNotepad-Qt-cpp" />
 </p>
 
 ---
