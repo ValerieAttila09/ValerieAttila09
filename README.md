@@ -44,15 +44,15 @@ I love combining creativity and logic to build digital experiences that look gre
 
 ## 🧩 Technologies & Tools
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,php,dart,py&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,php,dart,py)](https://skillicons.dev)
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=tailwind,threejs,materialui,alpinejs,react,nextjs,express,laravel,nodejs,flutter,prisma,astro,elysia&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,threejs,materialui,alpinejs,react,nextjs,express,laravel,nodejs,flutter,prisma,astro,elysia)](https://skillicons.dev)
 #### Development Tools
 [![My Skills](https://skillicons.dev/icons?i=jest,vite,npm,postman)](https://skillicons.dev)
 #### Containerization & Orchestration
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,github,git,gitlab)](https://skillicons.dev)
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,supabase&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,supabase)](https://skillicons.dev)
 #### Hostinger
 [![My Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
 
