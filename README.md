@@ -31,7 +31,7 @@
 
 ## 🧠 About Me
 
-I'm **Valerie Attila Al-Fath**, a UI/UX designer and backend developer based in **Medan, Indonesia**.  
+I'm **Valerie Attila Al-Fath**, a Full-stack Developer and UI/UX Designer based in **Medan, Indonesia**.  
 I love combining creativity and logic to build digital experiences that look great and work even better.
 
 🌱 Always learning new technologies  
